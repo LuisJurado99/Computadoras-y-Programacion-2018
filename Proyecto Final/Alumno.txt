@@ -1,0 +1,21 @@
+Edad del alumno 1: 25
+Nombre del alumno 1: srg
+Genero del alumno 1: m
+Carrera del alumno 1: dfgb
+Numero de cuenta del alumno 1: 23456
+Promedio del alumno 1: 3.00
+++++++++++++++++++++++++++++++++++
+Edad del alumno 2: 65
+Nombre del alumno 2: afsdgh
+Genero del alumno 2: m
+Carrera del alumno 2: svrthn
+Numero de cuenta del alumno 2: 6584
+Promedio del alumno 2: 6.00
+++++++++++++++++++++++++++++++++++
+Edad del alumno 3: 45
+Nombre del alumno 3: Pedro
+Genero del alumno 3: m
+Carrera del alumno 3: dtyj
+Numero de cuenta del alumno 3: 234567
+Promedio del alumno 3: 7.00
+++++++++++++++++++++++++++++++++++
